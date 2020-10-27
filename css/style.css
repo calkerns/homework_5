@@ -68,7 +68,7 @@ footer{
 #logo{
    /*Your code here.*/
    /* CHANGE ME TO 15S */
-  animation: logo_wiggle 1s;
+  animation: logo_wiggle 15s;
 }
 
 /* Cards! */
